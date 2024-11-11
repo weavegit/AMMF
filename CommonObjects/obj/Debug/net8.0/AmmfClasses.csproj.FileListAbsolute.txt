@@ -1,0 +1,12 @@
+C:\Users\weave\source\repos\AmmfTest\CommonObjects\bin\Debug\net8.0\AmmfClasses.deps.json
+C:\Users\weave\source\repos\AmmfTest\CommonObjects\bin\Debug\net8.0\AmmfClasses.dll
+C:\Users\weave\source\repos\AmmfTest\CommonObjects\bin\Debug\net8.0\AmmfClasses.pdb
+C:\Users\weave\source\repos\AmmfTest\CommonObjects\obj\Debug\net8.0\AmmfClasses.csproj.AssemblyReference.cache
+C:\Users\weave\source\repos\AmmfTest\CommonObjects\obj\Debug\net8.0\AmmfClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\weave\source\repos\AmmfTest\CommonObjects\obj\Debug\net8.0\AmmfClasses.AssemblyInfoInputs.cache
+C:\Users\weave\source\repos\AmmfTest\CommonObjects\obj\Debug\net8.0\AmmfClasses.AssemblyInfo.cs
+C:\Users\weave\source\repos\AmmfTest\CommonObjects\obj\Debug\net8.0\AmmfClasses.csproj.CoreCompileInputs.cache
+C:\Users\weave\source\repos\AmmfTest\CommonObjects\obj\Debug\net8.0\AmmfClasses.dll
+C:\Users\weave\source\repos\AmmfTest\CommonObjects\obj\Debug\net8.0\refint\AmmfClasses.dll
+C:\Users\weave\source\repos\AmmfTest\CommonObjects\obj\Debug\net8.0\AmmfClasses.pdb
+C:\Users\weave\source\repos\AmmfTest\CommonObjects\obj\Debug\net8.0\ref\AmmfClasses.dll

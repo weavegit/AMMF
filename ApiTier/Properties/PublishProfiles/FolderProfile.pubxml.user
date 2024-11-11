@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\deploy\pinewood</_PublishTargetUrl>
+    <History>True|2024-09-12T08:04:06.4260475Z||;True|2024-09-11T15:17:55.5661112+01:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
