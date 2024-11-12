@@ -2,6 +2,7 @@ using Classes.Enum;
 using Common.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Newtonsoft.Json;
 using System.Text;
 
@@ -13,6 +14,7 @@ namespace UI.Pages
 
         [BindProperty]
         public required RegistrationViewModel RegistrationForm { get; set; }
+        public Dictionary<string, List<SelectListItem>> TopicDdls { get; set; } = new Dictionary<string, List<SelectListItem>>();
         public string? UserMessage { get; set; }
         public async Task<IActionResult> OnGet()
         {

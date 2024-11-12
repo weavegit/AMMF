@@ -7,7 +7,7 @@ namespace Common.Entities
     {
         [Display(Name = "Topic")]
         [Required(ErrorMessage = "Please make a selection.")]
-        public Dictionary<Guid, string> TopicId { get; set; }
+        public int TopicId { get; set; }
         [Display(Name = "First Name")]
         [Required(ErrorMessage = "The First Name is required")]
         public string FirstName { get; set; }

@@ -5,8 +5,18 @@
 <h2>@ViewData["Title"]</h2>
 
 <form method="post">
-
     <div style="width:50%;">
+
+        <div class="row">
+            <div class="col">
+                <div class="form-group">
+                    @Html.LabelFor(m => m.RegistrationForm.TopicId)
+
+                    @Html.ValidationMessageFor(m => m.RegistrationForm.TopicId, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
         <div class="row">
             <div class="col">
                 <div class="form-group">
