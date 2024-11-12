@@ -1,4 +1,4 @@
-﻿namespace AmmfClasses.Enum
+﻿namespace Classes.Enum
 {
     public enum Result
     {

@@ -14,13 +14,16 @@ namespace Common.Entities
         public string? Title { get; set; }
 
         public string? AnyQuestions { get; set; }
+
+        public Guid SelectedTopicId { get; set; }
+
         public RegistrationDto()
         {
             FirstName = string.Empty;
             LastName = string.Empty;
             Email = string.Empty;
         }
-        public RegistrationDto(string firstName, string lastName, string email, string? company, string? title, string? anyQuestions)
+        public RegistrationDto(string firstName, string lastName, string email, string? company, string? title, string? anyQuestions, Guid selectedTopicId)
         {
             FirstName = firstName;
             LastName = lastName;
@@ -28,6 +31,7 @@ namespace Common.Entities
             Company = company;
             Title = title;
             AnyQuestions = anyQuestions;
+            SelectedTopicId = selectedTopicId;
         }
     }
 }
